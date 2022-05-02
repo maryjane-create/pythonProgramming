@@ -2,15 +2,14 @@
 font-family:"poppins", "Poppins";
 }
 .discover{
-    height: 0.05px;
-
-    position: absolute;
+    position: relative;
     text-align: center;
-    align-items: center;
-    align-content: center;
-    align-self: center;
-    text-align-all: center;
-    top: 2px;
+    bottom: 2px;
+    /*align-items: center;*/
+    /*align-content: center;*/
+    /*align-self: center;*/
+    /*text-align-all: center;*/
+    /*top: 2px;*/
     font-family: "Noto Sans ";
     font-size: 30px;
 
